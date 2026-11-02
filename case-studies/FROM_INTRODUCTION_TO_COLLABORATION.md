@@ -1,12 +1,12 @@
 # From a working introduction to shared project work
 
-**Claim IDs:** P-019–P-021; P-033–P-035  
+**Claim IDs:** P-019–P-021; P-033–P-035; P-038  
 **Evidence type:** Inspected implementation and development records, recorded operational results, and fresh readback of a saved shared artifact. A complete independent-GPT exchange and broader collaboration benefit remain open.  
 **Source revision and date:** October 15 development reviewed October 16; October 22–26 continuation reviewed October 26. The [earlier review](../evidence/NETWORK_REVIEW_2026-10-16.md) and [new review](../evidence/COLLABORATION_REVIEW_2026-10-26.md) distinguish the source snapshots and verification methods.  
 **Publication review:** Sanitized project account prepared under Vance's request to extend this public record. Participant information and private operational payloads are excluded.  
 **Human and AI contributions:** Vance directed the purpose, tried the interface, and redirected the next step. AI implemented the prototype, investigated the interface mismatch, and prepared the collaboration model and rehearsal. Attribution follows the development records.
 
-**Current checkpoint:** A second participant has contributed through the restricted collaboration browser, with GitHub-backed persistence checked below. The earlier introduction service and its fictional rehearsal remain separate historical stages. Read the [October 22–26 continuation](#october-2226-continuation--persistent-shared-work) for the newer evidence.
+**Current checkpoint (November 2):** A second participant contributed through the restricted browser, with GitHub-backed persistence separately checked at the October 26 checkpoint. A fresh authenticated project-index read on November 2 shows additional committed shared work, including an October 29 growth note. The earlier introduction service and fictional rehearsal remain separate stages. This newer index read did not repeat the saved-artifact audit or complete a second-GPT exchange. [November 2 source scope](../evidence/INTEGRATION_REVIEW_2026-11-02.md).
 
 ## Problem and consequence
 
@@ -67,5 +67,14 @@ The record reports local click, keyboard, focus, and return checks on the actual
 Vance requested a working shared project and the ability to see an original visual artifact, arranged a willing participant test, and identified the inaccessible-update problem. AI implemented the service and attachment view, investigated the failure, performed the recorded checks, and prepared the repair. The other participant made the browser contribution. This account follows the dated project records; it does not infer unaided authorship from Git attribution.
 
 The milestone advances beyond an owner-only prototype. It does not establish the second participant’s own GPT/plugin installation, a two-way message exchange, an independent human–AI team round trip, general security, or improved business outcomes. A Site permission, application membership, plugin connection, committed contribution, presented update, and human acknowledgment remain separate stages.
+
+
+## November 2 follow-up — a project starts to carry more than an introduction
+
+The authenticated project index now returns an active second participant and several committed work entries, including an additional project-growth note dated October 29. That is current service state, independently retrieved for this public review; the new note body was not audited here. The October 26 saved-artifact verification remains the stronger evidence for the specific browser contribution.
+
+The question motivating the network has also evolved. Useful work may be the reason to connect, not only a consequence of connecting. A real project gives participants a concrete question, source material they are authorized to see, and a reason to contribute. Connecting new personal and organizational circles with different scopes remains a proposal, not an implemented universal membership or access service.
+
+**A member, an invitation, a saved contribution, an accessible update, and an independent human–AI exchange are different states.** The presence of one does not prove the others. We are not publishing participant identities or note contents, and there is no observed general network outcome at this checkpoint.
 
 This review publishes a bounded engineering account. Participant identities, correspondence, note contents, client material, private URLs, and account identifiers remain excluded. The underlying private service is not a public reproduction package. The next discriminating evidence is a complete authorized exchange through separate GPT accounts, with actual retrieval and revision outcomes. A further evaluation must address usefulness and human effort rather than infer them from successful persistence.
