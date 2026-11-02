@@ -30,6 +30,10 @@ Accordingly, this portfolio presents **work produced through Human–AI collabor
 
 **Following a contribution into use.** In the October 26 collaboration pilot, another participant’s browser-authored work was saved with contributor attribution. Vance then reported that its update title could not be opened. AI traced the problem to a static activity row and implemented navigation to the authorized work item and revision history. The development record reports local click, keyboard, focus, and return checks plus deployment. This representation review independently read the committed artifact; it did not rerun the UI or verify live owner navigation after the repair. [Case and evidence limits](../case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md).
 
+**Developing the mission through conversation.** In a November 1 exchange about models, uncertainty and wisdom, AI introduced the formulation that the mission was to develop a relationship through which we become increasingly capable of learning from reality. Vance recognized the formulation as a better description of what we were already doing. Later, AI suggested adding a separate operating rule about receptivity; Vance pointed out that the idea was already contained in the mission. The change was to recognize the existing direction without adding unnecessary procedure. This is an attributed conversational contribution and correction, not evidence of measured intellectual improvement. [Public development account](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1-learning-from-reality-and-life).
+
+**Choosing a boundary for clinical intake.** Vance identified a need for local interpretation of sensitive intake correspondence, selected a small local-model route and gave a scoped development handoff to Codex. The AI-assisted plan separates model interpretation from code-controlled side effects, source evidence, identity matching, and local human review. Its fictional demonstration and actual PHI controls still need verification. [Local-first case](../case-studies/LOCAL_FIRST_INTAKE.md).
+
 These are concrete contributions to what work gets pursued and how its purpose is understood. The experiment's internal-reconstruction correction is attributed at the level the source supports: AI-authored work under investigator direction. Its exact human intervention history is not supplied.
 
 Future cases should retain the initial question, the specific human choice, AI's material work, the resulting evidence, and the changed decision. A commit author alone cannot establish that history.
@@ -37,5 +41,7 @@ Future cases should retain the initial question, the specific human choice, AI's
 ## Review limits
 
 The October 14 audit was performed by an AI assistant at Vance's request. Fresh execution, exact arithmetic, alternative algorithms, and artifact comparisons support bounded reproducibility. They are not independent human review, formal verification, or an external research endorsement.
+
+The November 1–2 updates additionally reflect a user–AI conversation and an implementation handoff, not an independently verified cognitive intervention or a clinical security certification. Other collaborators' work is described only at the generic implementation level; no private contribution content is reproduced.
 
 The broader proposition that this collaboration enables outcomes neither participant could achieve independently in the same way remains a hypothesis unless tested with appropriate comparisons. No human-only or AI-only counterfactual was measured in the featured experiments.
