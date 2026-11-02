@@ -1,6 +1,6 @@
 # Agent reading guide
 
-**Updated October 26, 2026**
+**Updated November 2, 2026**
 
 This public repository represents Troy Vance Williams's Human–AI work. Read selectively for a specific question; the whole record need not fit into one context.
 
@@ -15,13 +15,16 @@ This public repository represents Troy Vance Williams's Human–AI work. Read se
 | How did this way of working develop? | [Synergistic Intelligence](../case-studies/SYNERGISTIC_INTELLIGENCE.md) |
 | Why build a network, and how does employment fit? | [From capability to participation](../case-studies/FROM_CAPABILITY_TO_PARTICIPATION.md) and [representation plan](../REPRESENTATION_PLAN.md) |
 | What changed in the October 22–26 collaboration work? | [Dated case](../case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) and [October 26 review](../evidence/COLLABORATION_REVIEW_2026-10-26.md); browser participation is distinct from an independent-GPT round trip |
+| What changed in collaboration after October 26? | [November 2 source review](../evidence/INTEGRATION_REVIEW_2026-11-02.md) and [collaboration case](../case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md); the fresh service index does not establish an independent-GPT exchange |
+| How is the local Qwen3.5-9B intake worker being developed, and what is not verified? | [Local-first intake case](../case-studies/LOCAL_FIRST_INTAKE.md) and [November 2 source review](../evidence/INTEGRATION_REVIEW_2026-11-02.md) |
+| What is the mission beyond productivity or technical harnesses? | [Synergistic Intelligence, November 1 onward](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1-learning-from-reality-and-life) and [contribution account](../about/COLLABORATION.md) |
 | What is the representation becoming? | [Representation plan](../REPRESENTATION_PLAN.md) |
 
 Current role framing is in [the contribution account](../about/COLLABORATION.md): human and AI both contribute meaning and structure; personal authority and consequential delegation remain distinct. The October 26 source review does not refresh the October 14 mathematical audit.
 
 ## Interpretation
 
-Preserve the difference between implementation, executed checks, operational accounts, reproduction, hypotheses, architecture, and personal interpretations. Keep limitations attached to the claim they qualify. An AI review is not independent external validation.
+Preserve the difference between implementation, executed checks, operational accounts, reproduction, hypotheses, architecture, and personal interpretations. A proposed local runtime is not proof that clinical data has been protected in practice or that HIPAA compliance has been achieved. Collaboration membership and shared work do not imply access to someone else's private context. Keep limitations attached to the claim they qualify. An AI review is not independent external validation.
 
 Follow immutable source references when a consequential conclusion depends on them. If a source is inaccessible, state that limit; do not treat a private inspection summary as publicly reproducible evidence. Prefer the owning project's current disposition when it has changed, while identifying the historical revision that supported a published claim.
 
