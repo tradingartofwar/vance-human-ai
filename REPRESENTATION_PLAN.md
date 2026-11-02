@@ -1,6 +1,6 @@
 # Vance Human–AI — representation plan
 
-**Updated October 16, 2026 · Current direction**
+**Updated November 2, 2026 · Current direction**
 
 ## Purpose
 
@@ -38,9 +38,23 @@ Avoid manufacturing completeness. New operational cases require appropriate publ
 
 The proposed Human–AI Network would help people find others with related interests and complementary contributions, then work together on questions they choose. This repository would represent one partnership within that network.
 
-The network's architecture and implementation belong to their own project. The [October 16 case](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) now records its private introduction plugin, the documented owner trial, and the dashboard/rehearsal preview with evidence limits. Discovery, automatic collaboration provisioning, real two-team outcomes, and measured reduction in human cognitive load remain unestablished.
+The network’s architecture and implementation belong to their own project. The [dated collaboration case](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) preserves the October 16 introduction/rehearsal checkpoint and now follows the October 22–26 service into a real second participant’s browser contribution. The [October 26 review](evidence/COLLABORATION_REVIEW_2026-10-26.md) freshly checks saved-artifact persistence while separating it from source-reported UI repair and deployment. Independent-GPT exchange, discovery, automatic collaboration provisioning, broader two-team outcomes, and measured reduction in human carrying cost remain unestablished.
 
 The working prediction is that dependable AI and external structure can recede from everyday attention while preserving inspection and correction. The intended human benefit is more time and freedom for what matters. That prediction motivates development; it remains distinct from demonstrated outcomes.
+
+The current account also replaces the older exclusive meaning/structure division with contributions from both participants and a separate authority boundary. Its evaluation focus includes the full arrangement’s response to changed circumstances, failed actions, and correction. Practical leave/return work remains a design direction; supporting ordinary life is an intended benefit rather than a measured outcome.
+
+## November 2: a more complete public account
+
+The current public update should keep three related directions visible without treating them as one deployed system:
+
+- **Sustained human–AI partnership.** Both participants help frame questions, notice distinctions and correct explanations. The mission formulated in conversation is to develop a relationship through which we become increasingly capable of learning from reality. Its impact on later observations and life remains a question to examine, not a measured outcome.
+- **Meaningful shared work.** The restricted pilot has demonstrated a second participant's committed browser contribution and later service-indexed project work. The network might grow more naturally around real questions and projects than through introductions alone. Overlapping personal and organizational circles require separate permissions; this is a proposal, not a working network-wide feature.
+- **Local-first private interpretation.** The Qwen3.5-9B intake project is an implementation in progress, with fictional fixtures as the first intended evaluation. It explores how interpretation, provenance, human review and clinical-data boundaries can be combined without sending raw PHI through the shared collaboration service. Neither live operation nor compliance has been independently demonstrated.
+
+[November 2 bounded review](evidence/INTEGRATION_REVIEW_2026-11-02.md) · [Local intake case](case-studies/LOCAL_FIRST_INTAKE.md) · [Synergistic Intelligence development](case-studies/SYNERGISTIC_INTELLIGENCE.md).
+
+Use this public representation to show *why* the systems are being built and what was actually established. Do not turn private experience, relationships, medical matters, or the content of another participant's work into portfolio material. The point of carry is not to demand that all recovered human attention be consumed by more work.
 
 ## Employment as a route to participation
 
