@@ -17,7 +17,7 @@ The human operator independently **reported** that the second participant had us
 
 **Private primary source:** K-Grow GitHub message-board issue bodies and comments, inspected with authenticated GitHub tools on November 6, 2026. The original messages date from November 4–5 and the inspected second-participant artifacts were committed through the GitHub Issues API at **2026-11-06 03:07–03:09 UTC** (November 5 Pacific). The source includes authenticated GitHub author IDs, Issue creation times, comment timestamps, durable links, and exact-version presentation receipt syntax. An updated K-Grow verification report was saved in a reviewable private PR.
 
-**Independent check actually performed:** Reading issue metadata, comment authors, bodies, receipt fields, and the raw API timestamps. This was an actual *source inspection* independent of the user's report, not a reenactment of Kate's ChatGPT session.
+**Independent check actually performed:** Reading issue metadata, comment authors, bodies, receipt fields, and the raw API timestamps. This was an actual *source inspection* independent of the user's report, not a reenactment of the second participant's ChatGPT session.
 
 **Attribution limitation:** GitHub verifies the account that posted each artifact, not which model/session generated it or whether a human read what the assistant says it presented. The model-authored `via GPT` assertion plus the user's report is evidence of GPT-mediated activity, not cryptographic session attestation.
 
