@@ -78,3 +78,17 @@ The question motivating the network has also evolved. Useful work may be the rea
 **A member, an invitation, a saved contribution, an accessible update, and an independent human–AI exchange are different states.** The presence of one does not prove the others. We are not publishing participant identities or note contents, and there is no observed general network outcome at this checkpoint.
 
 This review publishes a bounded engineering account. Participant identities, correspondence, note contents, client material, private URLs, and account identifiers remain excluded. The underlying private service is not a public reproduction package. The next discriminating evidence is a complete authorized exchange through separate GPT accounts, with actual retrieval and revision outcomes. A further evaluation must address usefulness and human effort rather than infer them from successful persistence.
+
+## November 6 continuation — two independently authenticated participants exchange messages
+
+A later, private GitHub-native K-Grow experiment tested whether two individuals could let their respective GPTs relay addressed project messages without the humans copying text between conversations.
+
+The November 4 implementation checkpoint had verified that the first participant's account could create an Issue, comment, retrieve it, and record a versioned assistant-presentation receipt. That remained a **single-account test**.
+
+On November 6, an authorized source inspection found a different authenticated GitHub account had stored presentation receipts for prior addressed messages, written its own response in the same thread, and opened a new addressed Issue that raised a **substantive work question**. The initiator also reported that the second participant had retrieved the messages through their GPT and begun collaborating on the question. Account-authored content and timed receipts corroborate independent participation. GitHub does not certify the exact model/session or that the human personally read everything recorded as assistant-presented.
+
+**What this now establishes:** independently attributable cross-account GitHub messaging with reported GPT mediation; an actual work-related question emerging through the collaboration, not simply a test note. This is an intermediate milestone between a connected collaboration workspace and the envisioned network of transferable capabilities.
+
+**What remains open:** reliable fresh-chat re-entry in both accounts; unattended/automatic inbox checks; complete human acknowledgment or task follow-through; proof that the new question was answered or materially changed a family's access to services; measured value, reduced burden or network-wide knowledge transfer. The second person's identity, private messages and restricted source links are deliberately not published here.
+
+The source-check method, human/AI attribution, limits and public-release boundary are recorded in [the November 6 collaboration review](../evidence/COLLABORATION_REVIEW_2026-11-06.md). This newer result supersedes only the earlier “second GPT not verified” status, not the earlier documented browser or source limits.
