@@ -1,10 +1,10 @@
 # November 12, 2026 — When an AI edits another AI's weights
 
-**Claim IDs:** P-044–P-045.  
+**Claim IDs:** P-044–P-046.  
 **Evidence type:** Contemporaneous Human–AI research encounter and Vance's interpretation; externally reported experimental result.  
 **Source revision and date:** MIT CSAIL authors' report, November 2, 2026; [released Experiment 8 logs at commit `4d09ba6`](https://github.com/RikiyaT/lm_understand-logs/blob/4d09ba6d6a7e891dd8063974dfe81b3d78e3494f/exp8_math/README.md), inspected November 12.  
 **Publication review:** Vance asked on November 12 for this insight to be preserved in the Vance Human–AI portfolio. AI prepared and checked this public-safe account; no experiment was independently run here.  
-**Human and AI contributions:** Vance selected the research, connected it to specialized small models and human learning, and requested preservation. AI distinguished findings from hypotheses, checked public sources and prepared the account.
+**Human and AI contributions:** Vance selected the research, connected it to specialized small models and human learning, identified a hardware-centered mental model that needed correction, and requested preservation. AI distinguished findings from hypotheses, checked public sources, eventually recognized the representational correction, and prepared the account.
 
 ## The encounter
 
@@ -40,6 +40,24 @@ The authors also tried editing Gemma 3 270M, a model that rarely entered the sam
 **A possible reverse lesson about human cognition.** The striking part of the Qwen experiment may be that the change largely released an ability obstructed by repetitive output, rather than inserting new mathematical knowledge. AI helped separate three possibilities: an ability is present, an ability can be accessed in the current situation, and an ability can be expressed reliably. That distinction suggests questions for the study of attention, learning, habits and cognitive constraints in humans.
 
 It does **not** show that a human brain contains an analogous editable direction, or that human learning can be improved by copying a neural-network intervention. Artificial neural networks and biological nervous systems differ substantially. The proposed connection is an invitation to formulate testable questions across fields, not a finding about people.
+
+### Later on November 12: the transformer picture was the wrong abstraction
+
+The conversation then turned from how to edit a model to **what kind of thing Vance had been picturing**. He pointed out that he had downloaded Qwen onto existing hardware: no physical transformer or new neural circuitry had been installed. He asked whether the learned weights should therefore be understood as part of *software*, even if they were not conventional source code.
+
+Vance described the origin of his earlier mental model in his own words:
+
+> “my perception was modeled significantly on hardware”
+
+And, recalling the transformer illustrations he had seen:
+
+> “Even at MIT, they showed me pictures of a transformer. I think that did me a bit of a disservice. It was not the right model.”
+
+The correction is precise. Architectural diagrams of layers, attention and data flow can be useful and technically valid. But they describe **the organization of computation**, not a physical machine assembled inside the computer or the full learned behavior of a particular model. Qwen is a software model executed on existing hardware: program instructions implement operations, while numerical weights, configuration and changing intermediate state participate in determining what it does. Its weights are software *data*, not ordinary executable machine instructions, but they encode behavior that can be changed without rebuilding hardware.
+
+The significant event was not a new experimental result. Vance recognized that a hardware-centered explanatory picture had shaped which possibilities he could readily imagine. Once he reframed the model as modifiable software, direct intervention in its weights made intuitive sense in a different way. AI had initially kept explaining the technical distinction between code and weights; Vance continued questioning until AI recognized that the **representation itself**, rather than a missing technical fact, was the issue. He confirmed the shared understanding: “yes you get it now.”
+
+This is a contemporaneous first-person account of a change in understanding, not evidence that transformer diagrams systematically mislead learners or that this change has improved a model. The particular MIT illustrations Vance remembers were not independently identified or reviewed for this entry. It raises an adjacent question for Representation Science: **when an explanatory diagram is technically correct, can the abstraction it invites still hide consequential possibilities from the person using it?**
 
 ## Contribution and correction
 
