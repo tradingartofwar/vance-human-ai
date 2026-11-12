@@ -63,6 +63,8 @@ The intended measure is not how many new projects or notifications can be added.
 
 ## Current development questions
 
+**November 12 research reflection:** Vance recognized a future possibility in using AI to tune specialized small models through their weights, and an unexpected question about what such work may teach us about human cognition. The [dated weight-space programming encounter](case-studies/WEIGHT_SPACE_PROGRAMMING_2026-11-12.md) separates the external experimental result from our engineering and biological hypotheses.
+
 The October 22–26 work makes the collaboration question more concrete: can people contribute through their own interfaces, recover the right version, and inspect one another’s work? It also sharpens an attention question: can someone leave a project, return without rebuilding its history, recognize a consequential change, and comfortably put it aside again? The latter remains an evaluation direction, with no measured reduction in human carrying cost claimed.
 
 The working criterion is how the full arrangement responds when reality challenges it: whether a failed action, contradictory source, or participant correction changes the representation and what happens next. [Development history and present direction](case-studies/SYNERGISTIC_INTELLIGENCE.md).
