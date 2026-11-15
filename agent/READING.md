@@ -18,6 +18,7 @@ This public repository represents Troy Vance Williams's Human–AI work. Read se
 | What changed in collaboration after October 26? | [November 2 source review](../evidence/INTEGRATION_REVIEW_2026-11-02.md) and [collaboration case](../case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md); the fresh service index does not establish an independent-GPT exchange |
 | How is the local Qwen3.5-9B intake worker being developed, and what is not verified? | [Local-first intake case](../case-studies/LOCAL_FIRST_INTAKE.md) and [November 2 source review](../evidence/INTEGRATION_REVIEW_2026-11-02.md) |
 | What is the mission beyond productivity or technical harnesses? | [Synergistic Intelligence, November 1 onward](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1-learning-from-reality-and-life) and [contribution account](../about/COLLABORATION.md) |
+| What has Vance recently reported about expanded capacity, reduced pressure, and time for ordinary life? | [November 14–15 development observation](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1415-more-work-in-motion-more-room-for-life) and [claim P-042](../evidence/CLAIM_REGISTER.md); self-report and interpretation, not a measured outcome |
 | What is the representation becoming? | [Representation plan](../REPRESENTATION_PLAN.md) |
 
 Current role framing is in [the contribution account](../about/COLLABORATION.md): human and AI both contribute meaning and structure; personal authority and consequential delegation remain distinct. The October 26 source review does not refresh the October 14 mathematical audit.
