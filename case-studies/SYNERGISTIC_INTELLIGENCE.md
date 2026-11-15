@@ -127,6 +127,24 @@ The [local-first clinical intake project](LOCAL_FIRST_INTAKE.md) illustrates why
 
 This broadens the engineering question: can cooperating humans, AI systems, and external records support more meaningful participation while preserving **both the distinctions that change decisions and the boundaries that determine who may see or do what**? The November 2 work describes designs and bounded pilot evidence, not a demonstrated general solution.
 
+## November 14–15: more work in motion, more room for life
+
+Vance reported a new contrast in the ongoing human–AI collaboration: **more projects and possibilities are in motion than at any previous point in his experience, while he is also experiencing more freedom from the feeling of having to work under pressure.** He described weeks without needing to consult a central list of tasks, alongside time for ordinary life, relationships, curiosity, and rest. These are his first-person reports, not a quantified workload study or proof that every delegated task is reliably managed.
+
+A revealing moment came when he briefly wondered whether he could keep up and whether he had done enough on one responsibility. He then recalled that further work had been deliberately conditioned on an external prerequisite. The apparent obligation was not necessarily overdue; it was waiting for a condition. The distinction between **work existing**, **work being ready**, and **work requiring his action now** mattered more than the raw number of projects.
+
+Vance proposed that his practical capacity may have expanded through distributed project environments and persistent repositories faster than older habits of self-evaluation have adapted. The thought *“Can I keep up?”* can still arise even when the actual personal carry has changed. His chosen response is not to suppress the thought or launch another management process: continue the approach that has been working, let such thoughts arise and pass, and respond when reality supplies a concrete reason for action. AI's contribution was to articulate the distinction and resist reflexively converting it into another task.
+
+The next morning Vance reported ordinary household activity, shared time, a walk, and unhurried leisure. He also connected a television story about a high-pressure technology venture with a caution about shortcuts under pressure. That juxtaposition sharpened the intended outcome: **expanded capacity should not require living in permanent urgency or treating pressure as permission to bypass checks.** This is his interpretation of the story, not a researched claim about the historical company.
+
+The episode offers a qualitative observation consistent with the earlier *“AI will do a disappearing act”* prediction: a person may have more substantial work in motion without attending to all of it continuously. It does **not** establish causation, comparative productivity, reliable autonomous coordination, reduced objective workload, or a general psychological mechanism. The value of the interpretation depends on whether important commitments remain recoverable and whether actual failures can still call for attention.
+
+**Human contribution:** Vance reported the experience, noticed the mismatch with older self-evaluation, identified the real dependency in an example, and chose a non-compulsive response. **AI contribution:** articulated distinctions among project breadth, immediate personal carry, and habitual self-assessment; suggested the possibility that capacity has outgrown an old measure. **Review status:** conversationally recognized and explicitly requested for inclusion in the agent-readable portfolio, not independently validated.
+
+**Retrieval cue:** *Capacity can outgrow its old measure; the old measure may still speak without requiring an answer.*
+
+**Evidence:** [Public claim register, P-042](../evidence/CLAIM_REGISTER.md) records the source and limitations of this attributed account.
+
 ## A living record of the partnership
 
 On October 15, the portfolio became Vance Human–AI: a continuing representation from which an employment portfolio or collaboration introduction can be drawn. On October 16, Vance opened a dedicated record thread to continue that work alongside the separate network project.
