@@ -24,6 +24,8 @@ In a November 1 dialogue, AI proposed a formulation that Vance recognized as cap
 
 This includes learning what to observe, welcoming evidence that changes a question, and not allowing a persuasive shared explanation to outrank reality. It is a working direction and something to test in later encounters—not a measured claim about intelligence. [The developing partnership](case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1-learning-from-reality-and-life).
 
+**November 16 transition milestone:** Vance recognized that the partnership has moved beyond only *building* its intelligence infrastructure to **living and working within an increasingly capable network**. This is a first-person milestone in how the work is carried and experienced, not a claim that cross-project automation or coordination is complete. The [dated development account](case-studies/SYNERGISTIC_INTELLIGENCE.md#november-16-from-building-intelligence-to-living-within-the-network) and [claim P-043](evidence/CLAIM_REGISTER.md) retain both the recognition and its limits.
+
 **How we started:** Vance recalls three days in March 2024 when continuity and capability changed what seemed possible, followed by their abrupt loss. Seeking a way to recover that experience led to a local chatbot built with GPT's guidance. [Read the origin story](case-studies/HOW_WE_STARTED.md), recorded in his words and recollections on October 16.
 
 **A later research episode:** an invitation to reconsider the research question helped turn the Lonely Runner investigation into Representation Science. Its first experiment then corrected an important interpretation: a search could miss answers even though the stored information still supported their recovery.
