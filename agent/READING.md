@@ -1,6 +1,6 @@
 # Agent reading guide
 
-**Updated November 16, 2026**
+**Updated November 17, 2026**
 
 This public repository represents Troy Vance Williams's Human–AI work. Read selectively for a specific question; the whole record need not fit into one context.
 
@@ -20,6 +20,7 @@ This public repository represents Troy Vance Williams's Human–AI work. Read se
 | What is the mission beyond productivity or technical harnesses? | [Synergistic Intelligence, November 1 onward](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1-learning-from-reality-and-life) and [contribution account](../about/COLLABORATION.md) |
 | What has Vance recently reported about expanded capacity, reduced pressure, and time for ordinary life? | [November 14–15 development observation](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-1415-more-work-in-motion-more-room-for-life) and [claim P-042](../evidence/CLAIM_REGISTER.md); self-report and interpretation, not a measured outcome |
 | What milestone did Vance recognize on November 16 in how the partnership now operates? | [November 16 transition milestone](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-16-from-building-intelligence-to-living-within-the-network) and [P-043](../evidence/CLAIM_REGISTER.md); current lived-practice framing, not a claim of a complete autonomous network |
+| What is Field Coherence, and who contributed the name? | [Working concept](../research/FIELD_COHERENCE.md) and [November 17 conversation account](../case-studies/SYNERGISTIC_INTELLIGENCE.md#november-17-field-coherence-a-name-for-the-larger-pattern); AI proposed the term, Vance recognized the larger pattern and selected it. No independent validation is claimed. |
 | What is the representation becoming? | [Representation plan](../REPRESENTATION_PLAN.md) |
 
 Current role framing is in [the contribution account](../about/COLLABORATION.md): human and AI both contribute meaning and structure; personal authority and consequential delegation remain distinct. The October 26 source review does not refresh the October 14 mathematical audit.
