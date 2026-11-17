@@ -169,6 +169,20 @@ The source conversation also explored an **unproven** possibility: AI support, i
 
 **Evidence:** [Public claim register, P-043](../evidence/CLAIM_REGISTER.md). This account deliberately omits private reflections and operational or family details.
 
+## November 17: Field Coherence — a name for the larger pattern
+
+In a conversation about the experience of work continuing across multiple people, projects, AI systems and different timescales, AI described the possibility that **the larger arrangement may retain continuity even when its individual parts are not all moving together**. The example was qualitative: independent activities, waiting conditions, different responsibilities and everyday life need not require constant central orchestration. The discussion followed Vance's November 14–16 reports of more work in motion and a change in the felt burden of carrying it.
+
+Vance heard that account and offered an organizing concept: **“It sounds like you're describing a larger coherence.”** He clarified that he was trying to compress the longer description, not necessarily formulate a new theory. When AI proposed possible names, including “network coherence,” “organizational coherence,” “meta-coherence,” and **“field coherence,”** Vance interrupted to say that he especially liked **Field Coherence**.
+
+The resulting [working concept](../research/FIELD_COHERENCE.md) names a possible property of the *relationships among* independently moving systems: preserving meaningful continuity, dependencies, authority and readiness despite different rhythms, pauses and constraints. “Field” is intended to be broader than a single organization or centrally controlled network; it does not assert the existence of a physical field.
+
+This is an exploratory formulation, **not** proof that the distributed arrangement is reliable, that attention saved caused any particular experience, or that such coherence constitutes an independently established scientific phenomenon. A field that *feels* calm while silently dropping obligations would be an important counterexample. What matters next is the record of actual handoffs, recoverable commitments, correct permissions, and responses to changed conditions.
+
+**Attribution:** AI described the multi-system pattern and suggested the term. Vance recognized a “larger coherence,” explicitly selected **Field Coherence**, and asked for the concept to be included in this public repository. The AI drafted the present account with the conceptual and evidence boundaries made explicit.
+
+**Evidence:** [Public claim register, P-044](../evidence/CLAIM_REGISTER.md) records the conversational origin and limits.
+
 ## A living record of the partnership
 
 On October 15, the portfolio became Vance Human–AI: a continuing representation from which an employment portfolio or collaboration introduction can be drawn. On October 16, Vance opened a dedicated record thread to continue that work alongside the separate network project.
