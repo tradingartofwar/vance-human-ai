@@ -38,6 +38,16 @@ The earlier coherence framing of **continuity under constraints** is retained. A
 
 The developing project-network model supplies potential settings to observe, but existing repository breadth, automated work, or subjective calm do not by themselves establish field-wide reliability.
 
+## November 20 extension — relationships need not be measured in meters
+
+A subsequent Human–AI inquiry connected mental imagination, the ability to navigate distributed repositories, and existing mathematical work on reconstructing geometry from relationships. Vance emphasized that these are **real phenomena to observe**, not a request to invent a unification theory. He also insisted that any developing representation must retain **contact with reality**.
+
+This prompted a useful four-way distinction: **specifying relationships without physical coordinates**, **defining or reconstructing a geometry under additional assumptions**, **realizing those relationships through physical actions**, and **demonstrating that a mathematical model actually describes the physical universe**. The first three do not establish the fourth.
+
+As an exact, modest example, a six-node cycle and two disconnected triangles have the same node count, edge count, and degree sequence but different answers to the connectivity question. The missing information is the arrangement of the edges, not another count. This example and its reconstruction limits are developed in a [public Representation Science working note at a pinned revision](https://github.com/tradingartofwar/representation-science/blob/216f9b13b216ef54dc9b936befe9c78bd283c624/notes/WORKING_NOTE_RELATIONAL_STRUCTURE_AND_GEOMETRIC_RECONSTRUCTION_2026_11_20.md) ([draft research PR #16](https://github.com/tradingartofwar/representation-science/pull/16)).
+
+The analogy invites questions about the conditions under which a relational structure supports an adequate geometry. **It does not show that a GitHub network, neural imagination, quantum entanglement, and physical spacetime use the same mechanism.** This extension remains a conceptual inquiry rather than new evidence for Field Coherence or quantum gravity.
+
 ## Questions that could make this idea useful
 
 Rather than formalizing a theory prematurely, examine concrete episodes:
