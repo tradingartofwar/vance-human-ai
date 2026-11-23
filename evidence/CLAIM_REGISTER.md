@@ -49,3 +49,9 @@
 | P-041 | Network expansion through meaningful shared projects and overlapping participation circles with separate permissions are current design directions; no universal matching, automatic family enrollment, or permission-free access has been demonstrated. | Vance's November 1 direction; private network design and current K-Grow status checked November 2; [public development perspective](../case-studies/SYNERGISTIC_INTELLIGENCE.md); [review](INTEGRATION_REVIEW_2026-11-02.md) | Direction/architecture, not operational multi-circle access control, broad network adoption, or automatic cross-person records sharing |
 
 No quantified deployment latency, customer impact, employer endorsement, formal credential, independent validation, or general alignment improvement is claimed in this edition.
+
+## November 23, 2026 · Agent harness engineering
+
+| ID | Exact claim | Evidence and verification | Boundary |
+| --- | --- | --- | --- |
+| P-048 | Across multiple projects, Vance and AI used real work to identify agent behaviors, checked intermediate actions and saved results, and revised instructions or software when a person encountered a failure. These practices overlap with the behavioral approach Mullen and Gunderman describe for coding agents. | [Comparative case and pinned source records](../case-studies/HOW_WE_ENGINEER_THE_HARNESS.md). November 23 AI review of public operating instructions, acceptance criteria, earlier engineering reviews, and one private acknowledgment and its corresponding change to check-in instructions. | The comparison concerns documented practices. Earlier component tests were source-reported, the fresh-GPT criteria describe expected behavior, and cross-model batch reliability remains unmeasured in this review. |
