@@ -19,6 +19,12 @@ Vance recognized much of our own practice when he read Taylor Mullen and Christi
 
 A November message test exposed a finer distinction. A project summary still listed a message as awaiting acknowledgment. A later reply from the recipient’s account said their assistant had retrieved it and the recipient had asked it to reply. The acknowledgment was there, yet Vance still had to ask who had actually responded. At his direction, AI set up a conversation that identifies the speaker and preserves the person’s words when an assistant relays them. That changed what subsequent agents were instructed to do. Whether that presentation consistently resolves the ambiguity is an open test. [Public guidance on evidence for handoffs](https://github.com/tradingartofwar/Sovereign-State/blob/34e318cbc82c0fbadd2d9a3b3045339ce7de8065/doctrine/OPERATIONAL_EVIDENCE.md)
 
+## The time between a message and a conversation
+
+In November 2026, Vance recalled an operating constraint the partnership had encountered roughly two months earlier. On the ChatGPT Plus accounts they were using, frequent automated checks for messages consumed too much of the available token budget to sustain the pace they wanted. A message could already be in the shared repository while the recipient’s assistant would discover it only at the next scheduled or requested check. Checking more often could shorten that wait, but it also used capacity the person needed for other work.
+
+September project records document the use of scheduled checks. The judgment about token use comes from Vance’s experience. The available records give no per-check token count or measured delivery delay. For this harness, timely messaging and successful retrieval were two separate outcomes to evaluate.
+
 ## How far the comparison goes
 
 The October records document local component checks and bounded end-to-end observations. The public bootstrap also supplies behavioral criteria that allow more than one valid route to a result. Google’s article goes further on automation: running agents repeatedly, tracking aggregate results across changes, and using evaluations to guide prompt optimization. The evidence reviewed here establishes neither a comparable cross-model measurement program nor a performance comparison. The significance is that a working human–AI partnership arrived at many of the same engineering practices through ordinary use.
