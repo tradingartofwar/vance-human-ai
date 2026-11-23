@@ -34,6 +34,7 @@ This includes learning what to observe, welcoming evidence that changes a questi
 
 | Case | What happened | Evidence |
 | --- | --- | --- |
+| [How we engineer the system around the model](case-studies/HOW_WE_ENGINEER_THE_HARNESS.md) | Operating instructions, stateful tool selection, permissions, and behavioral checks shape how the partnership’s LLMs work. A comparison with Google’s published practice draws on several projects. | Pinned instructions, acceptance criteria, source reviews, and a dated handoff observation. |
 | [A new question, then a correction](case-studies/WHEN_THE_QUESTION_CHANGED.md) | Research into compression became a separate inquiry. A restricted search found six maximizing times; reconstruction from the same stored data recovered all eight. | Documented framing decision and EXP-001 results; the October 14 audit reproduced three output files byte for byte. |
 | [Preserving the answer at an equality point](case-studies/EXACT_CHECKER.md) | An exact checker retains isolated valid times that interval-width summaries or sampling can miss. | Rational-arithmetic implementation; 25 existing tests passed in the audit, within a bounded domain. |
 | [Letting evidence change the disposition](case-studies/EXPERIMENT_INTEGRITY.md) | A successful run report failed the required replay check. The experiment remains stopped/unassessable. | Saved replay has 13 of 24 required records and a hash discrepancy, confirmed by the audit. |
